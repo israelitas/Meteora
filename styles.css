@@ -5,3 +5,19 @@
 .divs-facilidades {
     width: 325px;
 }
+
+.btn-categoria {
+    background-color: #000000;
+    border-radius: 0;
+    color: white;
+    width: 100%;
+}
+
+.text-color {
+    color: #DAFF01;
+}
+
+.bg-btn {
+    background-color: #9353FF;
+    border-color: #9353FF;
+}
